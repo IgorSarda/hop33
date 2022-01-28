@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi!
 
-<!--
-**hop33/hop33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Experience
 
-Here are some ideas to get you started:
+• HTML/CSS - i This would be the part where I have the most knowledge, although I'm quite a beginner, I've already made some websites to eat and my own website too https://www.hop33.cf/
+• JS - Little experience, I've programmed some bots for discord.
+• PYTHON - No knowledge, I just made a script to automatically click constantly (autoclick).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Learning
+
+• JS 
+• HTML/CSS
+• PYTHON
+
+⚙️ My Projects
+
+• My personal web site: https://www.hop33.cf/
