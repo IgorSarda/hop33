@@ -8,11 +8,13 @@ Hi!
 
 • PYTHON - No knowledge, I just made a script to automatically click constantly (autoclick).
 
+
 📖 Learning
 
 • JS 
 • HTML/CSS
 • PYTHON
+
 
 ⚙️ My Projects
 
