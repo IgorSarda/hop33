@@ -8,6 +8,6 @@ Olá!
 • PYTHON - Sem muito conhecimento, apenas fiz um script para clicar automaticamente constantemente (autoclick).
 
 
-📖 Learning
+📖 Estudando:
 
 • PYTHON
